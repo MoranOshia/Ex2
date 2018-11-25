@@ -11,6 +11,8 @@ import Geom.Point3D;
  *
  */
 public interface coords_converter {
+	
+	
 	/** computes a new point which is the gps point transformed by a 3D vector (in meters)*/
 	public Point3D add(Point3D gps, Point3D local_vector_in_meter);
 	/** computes the 3D distance (in meters) between the two gps like points */
@@ -28,3 +30,4 @@ public interface coords_converter {
 	public boolean isValid_GPS_Point(Point3D p);
 	
 }
+                                         
