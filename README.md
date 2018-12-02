@@ -1,4 +1,6 @@
 #Ex2
+
+
 Authors : Israel Buskila i.d:305050437 and Moran Oshia i.d:313292633
 
 This project is the beginning of system to present a geographic information.
